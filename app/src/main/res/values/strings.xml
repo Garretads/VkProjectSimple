@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VkProjectSimple</string>
+    <string name="buttonText">Авторизация</string>
+</resources>
